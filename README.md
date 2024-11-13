@@ -15,7 +15,6 @@ To set up the project environment and install the required packages, follow thes
    git clone https://github.com/aghafoor1208/Fine_Tune_LLM_GPT2.git
 
 2. **Create the Conda Environment**
-
 Create a new Conda environment using the requirements.txt file:
    ```bash
    conda create --name your-env-name --file requirements.txt
